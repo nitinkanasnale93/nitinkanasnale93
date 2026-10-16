@@ -1,11 +1,19 @@
 # Nitin Kanasnale
 
-**Software Developer in the making.**
+**Frontend Developer | MCA Student**
 
-MCA student at Presidency University, Bengaluru.
+I build interactive web experiences with HTML, CSS, and JavaScript.
 
-I like turning ideas into things that work.
+Currently sharpening my frontend skills and working toward becoming a full-stack developer.
 
-Currently learning JavaScript, building projects, and getting better at software development — one commit at a time.
+### Featured Projects
 
-[GitHub](https://github.com/nitinkanasnale93) · [Email](mailto:nitinkanasnale3@gmail.com)
+- [Simon Memory Game](https://github.com/nitinkanasnale93/SimonGame) · [Live Demo](https://simongame-ji84.onrender.com)
+- [Spotify Music Player](https://github.com/nitinkanasnale93/spotify-project) · [Live Demo](https://spotify-music-player-hh8a.onrender.com)
+- [MANGO3 — Chat Management](https://github.com/nitinkanasnale93/MANGO3) · [Live Demo](https://mango3.onrender.com)
+
+### Tech Stack
+
+`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+
+[LinkedIn](https://linkedin.com/in/nitinkanasnale) · [Email](mailto:nitinkanasnale3@gmail.com)
