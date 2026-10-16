@@ -2,14 +2,14 @@
 
 MCA student @ Presidency University, Bengaluru.
 
-I turn ideas into interactive web experiences.
+I turn ideas into interactive web experiences.  
 Currently focused on JavaScript, frontend development, and building things that work.
 
 [LinkedIn](https://linkedin.com/in/nitinkanasnale) · [Email](mailto:nitinkanasnale3@gmail.com)
 
 ### Things I've Built
 
-| Project | Description | |
+| Project | Description | Link |
 |---|---|---|
 | **Simon Game** | Memory game with dynamic sequences | [View ↗](https://github.com/nitinkanasnale93/SimonGame) |
 | **Music Player** | Spotify-inspired browser music player | [View ↗](https://github.com/nitinkanasnale93/spotify-project) |
@@ -18,6 +18,13 @@ Currently focused on JavaScript, frontend development, and building things that 
 ### My Toolkit
 
 `HTML` `CSS` `JavaScript` `Git` `GitHub`
+
+---
+
+### What I'm up to
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
