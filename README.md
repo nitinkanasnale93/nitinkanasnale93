@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./linkedinbanner.jpeg" width="100%" alt="Nitin Kanasnale - Frontend Developer">
+</div>
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=58A6FF&width=500&lines=Hey%2C+I'm+Nitin+Kanasnale.;Frontend+Developer+in+the+making.)](https://git.io/typing-svg)
 
 MCA student @ Presidency University, Bengaluru.
