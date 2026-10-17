@@ -3,70 +3,80 @@
 
 <img src="https://raw.githubusercontent.com/nitinkanasnale93/nitinkanasnale93/main/linkedinbanner.jpeg" width="100%" alt="Nitin Kanasnale — Frontend Developer" />
 
-<br>
+<h1>Hey, I'm Nitin Kanasnale</h1>
 
-[![Hey, I'm Nitin Kanasnale](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Nitin+Kanasnale.)](https://git.io/typing-svg)
+<h3>Frontend Developer · MCA Student</h3>
 
-**MCA Student · Presidency University, Bengaluru**
+<p>
+Building interactive web experiences with HTML, CSS and JavaScript.<br>
+Currently learning, experimenting and improving through real projects.
+</p>
 
-I turn ideas into interactive web experiences.
-
-Currently focused on JavaScript, frontend development,  
-and building things that work.
-
-[LinkedIn](https://linkedin.com/in/nitinkanasnale)
-· [Email](mailto:nitinkanasnale3@gmail.com)
-· [GitHub](https://github.com/nitinkanasnale93)
+<a href="https://linkedin.com/in/nitinkanasnale">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:nitinkanasnale3@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/nitinkanasnale93?tab=repositories">All Projects</a>
 
 </div>
 
 ---
 
-### Featured Projects
+## Selected Work
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Simon Memory Game</h3>
-      A browser-based memory game with dynamic colour sequences and progressive difficulty.
-      <br><br>
-      <a href="https://github.com/nitinkanasnale93/SimonGame">Source Code ↗</a>
-      <br>
-      <a href="https://simongame-ji84.onrender.com/">Live Demo ↗</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Spotify Music Player</h3>
-      A Spotify-inspired music player with playlists, album artwork, playback controls, and a progress bar.
-      <br><br>
-      <a href="https://github.com/nitinkanasnale93/spotify-project">Source Code ↗</a>
-      <br>
-      <a href="https://spotify-music-player-hh8a.onrender.com/">Live Demo ↗</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>MANGO3</h3>
-      A chat management web application for creating, viewing, editing, and deleting chat records.
-      <br><br>
-      <a href="https://github.com/nitinkanasnale93/MANGO3">Source Code ↗</a>
-      <br>
-      <a href="https://mango-3.vercel.app/">Live Demo ↗</a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+**01 / Simon Memory Game**
+
+An interactive memory game with colour sequences and progressive difficulty.
+
+<br>
+
+<a href="https://github.com/nitinkanasnale93/SimonGame">View Source ↗</a>
+
+<a href="https://simongame-ji84.onrender.com/">Live Demo ↗</a>
+
+</td>
+<td width="33%" valign="top">
+
+**02 / Spotify Music Player**
+
+A music player featuring album artwork, playlists, playback controls and a progress bar.
+
+<br>
+
+<a href="https://github.com/nitinkanasnale93/spotify-project">View Source ↗</a>
+
+<a href="https://spotify-music-player-hh8a.onrender.com/">Live Demo ↗</a>
+
+</td>
+<td width="33%" valign="top">
+
+**03 / MANGO3**
+
+A chat management application for creating, viewing, editing and deleting chat records.
+
+<br>
+
+<a href="https://github.com/nitinkanasnale93/MANGO3">View Source ↗</a>
+
+<a href="https://mango-3.vercel.app/">Live Demo ↗</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### My Toolkit
+## Technologies
 
-`HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub`
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="HTML, CSS, JavaScript, Git and GitHub" />
 
----
+<br>
 
-### What I'm Building
-
-Currently strengthening my frontend development skills  
-and turning ideas into working web projects.
-
-Learning by building. Improving with every project.
+Currently focused on strengthening JavaScript, responsive design and frontend development fundamentals.
 
 ---
 
