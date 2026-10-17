@@ -70,3 +70,19 @@ Currently focused on JavaScript fundamentals, responsive web design and improvin
 <div align="center">
 
 *Less talking. More building.*
+
+</div>
+
+---
+
+<div align="center">
+
+### Watch the Snake Eat My Contributions
+
+<img
+  src="https://raw.githubusercontent.com/nitinkanasnale93/nitinkanasnale93/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub contribution snake animation"
+  width="100%"
+/>
+
+</div>
