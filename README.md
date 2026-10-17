@@ -1,16 +1,17 @@
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/nitinkanasnale93/nitinkanasnale93/main/linkedinbanner.jpeg" width="100%" alt="Nitin Kanasnale — Frontend Developer" />
 
 <br>
 
-[![Hey, I'm Nitin Kanasnale](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nitin.)](https://git.io/typing-svg)
+[![Hey, I'm Nitin Kanasnale](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Nitin+Kanasnale.)](https://git.io/typing-svg)
 
 **MCA Student · Presidency University, Bengaluru**
 
 I turn ideas into interactive web experiences.
 
-Currently focused on JavaScript, frontend development,
+Currently focused on JavaScript, frontend development,  
 and building things that work.
 
 [LinkedIn](https://linkedin.com/in/nitinkanasnale)
@@ -62,7 +63,7 @@ and building things that work.
 
 ### What I'm Building
 
-Currently strengthening my frontend development skills
+Currently strengthening my frontend development skills  
 and turning ideas into working web projects.
 
 Learning by building. Improving with every project.
