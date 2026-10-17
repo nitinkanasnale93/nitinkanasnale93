@@ -71,4 +71,16 @@ Currently focused on JavaScript fundamentals, responsive web design and improvin
 
 *Less talking. More building.*
 
+
+<br clear="both">
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/nitinkanasnale93/nitinkanasnale93/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
+</div>
+
+
 </div>
