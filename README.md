@@ -9,7 +9,8 @@
 [![Hey, I'm Nitin](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nitin.)](https://git.io/typing-svg)
 
 </div>
-**MCA Student · Presidency University, Bengaluru**
+
+MCA Student · Presidency University, Bengaluru
 
 I turn ideas into interactive web experiences.
 
