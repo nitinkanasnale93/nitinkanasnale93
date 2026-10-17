@@ -4,15 +4,16 @@
 <img src="https://raw.githubusercontent.com/nitinkanasnale93/nitinkanasnale93/main/linkedinbanner.jpeg" width="100%" alt="Nitin Kanasnale — Frontend Developer" />
 
 <br>
+
 [![Hey, I'm Nitin Kanasnale.](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Nitin+Kanasnale%2E)](https://git.io/typing-svg)
 
-Frontend Developer · MCA Student
+**Frontend Developer · MCA Student**
 
 Presidency University, Bengaluru
 
 <p>
-  I build interactive web experiences with HTML, CSS and JavaScript.<br>
-  Currently strengthening my skills through hands-on projects.
+I build interactive web experiences with HTML, CSS and JavaScript.<br>
+Currently strengthening my skills through hands-on projects.
 </p>
 
 <a href="https://linkedin.com/in/nitinkanasnale">LinkedIn</a>
